@@ -1,0 +1,25 @@
+{
+  "name": "Perseus-Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashfuentes/Perseus-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashfuentes/Perseus-Test/issues"
+  },
+  "homepage": "https://github.com/dashfuentes/Perseus-Test#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "typescript": "^5.1.6"
+  }
+}
